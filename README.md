@@ -1,4 +1,4 @@
-<h2> Crowd Counting Papers </h2>
+<h2> Psychiatry ML Papers </h2>
 
 
 
@@ -6,178 +6,174 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(1).pdf" style="text-decoration:none;">Factor Graphs and the Sum-Product Algorithm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(1).pdf" style="text-decoration:none;">Attention Networks for Modeling Behaviors in Addiction Counseling</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(2).pdf" style="text-decoration:none;">Assortative mixing in networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(2).pdf" style="text-decoration:none;">Emotion Based Facial Expression Detection Using Machine Learning</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(3).pdf" style="text-decoration:none;">
-An introduction to factor graphs </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(4).pdf" style="text-decoration:none;">The Link Prediction Problem for Social Networks </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(5).pdf" style="text-decoration:none;">A measure of betweenness centrality based on random walks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(6).pdf" style="text-decoration:none;">Evaluating Similarity Measures:
-A LargeScale Study in the Orkut Social Network</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(7).pdf" style="text-decoration:none;">Prediction and Ranking Algorithms for Event Based Network Data</a></li>
+A Linguistically-Informed Fusion Approach for Multimodal Depression Detection </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(4).pdf" style="text-decoration:none;">Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(5).pdf" style="text-decoration:none;">Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(6).pdf" style="text-decoration:none;">Using Speech to Predict Sequentially Measured Cortisol Levels During a Trier Social Stress Test</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(7).pdf" style="text-decoration:none;">Learning Face Representation from Scratch</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(8).pdf" style="text-decoration:none;"> Collaborative and Structural Recommendation of Friends using Weblog-based Social Network Analysis </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(9).pdf" style="text-decoration:none;">Link Prediction using Supervised Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(8).pdf" style="text-decoration:none;"> A Comprehensive Survey on Pose-Invariant Face Recognition </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(9).pdf" style="text-decoration:none;">Multi-velocity neural networks for gesture recognition in videos</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(10).pdf" style="text-decoration:none;">Structure and Evolution of Online Social Networks </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(11).pdf" style="text-decoration:none;">Clustering by Passing Messages
-Between Data Points</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(12).pdf" style="text-decoration:none;">Local Probabilistic Models for Link Prediction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(13).pdf" style="text-decoration:none;">Recommendations in Taste Related Domains: Collaborative Filtering vs. Social Filtering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(10).pdf" style="text-decoration:none;">SoundNet: Learning Sound
+Representations from Unlabeled Video </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(11).pdf" style="text-decoration:none;">Automatic Depression Level Detection via l<sub>p</sub>-norm Pooling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(12).pdf" style="text-decoration:none;">Complexity in speech and its relation to emotional bond in therapist-patient interactions during suicide risk assessment interviews</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(13).pdf" style="text-decoration:none;">Robust Speech Emotion Recognition under Different Encoding Conditions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(14).pdf" style="text-decoration:none;">Fast unfolding of communities in large networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(14).pdf" style="text-decoration:none;">FERA 2017 - Addressing Head Pose in the Third Facial Expression Recognition and Analysis Challenge</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(15).pdf" style="text-decoration:none;">A Binary Variable Model for Affinity Propagation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(15).pdf" style="text-decoration:none;">Deep Structured Learning for Facial Action Unit Intensity Estimation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(16).pdf" style="text-decoration:none;">"Make New Friends, but Keep the Old" – Recommending People on Social Networking Sites</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(16).pdf" style="text-decoration:none;">Multimodal Machine Learning:
+A Survey and Taxonomy</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(17).pdf" style="text-decoration:none;">
-Social Influence Analysis in Large-scale Networks</a></li>   
+Machine learning for precision psychiatry</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(18).pdf" style="text-decoration:none;">Folks in Folksonomies:
-Social Link Prediction from Shared Metadata</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(18).pdf" style="text-decoration:none;">Characterizing Types of Convolution in Deep Convolutional Recurrent Neural Networks for Robust Speech Emotion Recognition</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(19).pdf" style="text-decoration:none;">Inferring social ties from geographic coincidences</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(19).pdf" style="text-decoration:none;">End-to-End Audiovisual Fusion with LSTMs</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(20).pdf" style="text-decoration:none;">New Perspectives and Methods in Link Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(20).pdf" style="text-decoration:none;">From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(21).pdf" style="text-decoration:none;">Exploiting Place Features in Link Prediction on Location-based Social Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(22).pdf" style="text-decoration:none;">Friend Recommendations in Social Networks using Genetic Algorithms and Network Topology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(23).pdf" style="text-decoration:none;">Supervised Random Walks:
-Predicting and Recommending Links in Social Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(21).pdf" style="text-decoration:none;">Survey on Emotional Body Gesture Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(22).pdf" style="text-decoration:none;">Multimodal Sentiment Analysis: Addressing Key Issues and Setting up the Baselines</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(23).pdf" style="text-decoration:none;">Prediction and Localization of Student
+Engagement in the Wild</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(24).pdf" style="text-decoration:none;">Jointly Predicting Links and Inferring Attributes using a Social-Attribute Network (SAN)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(24).pdf" style="text-decoration:none;">Deep Facial Expression Recognition: A Survey</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(25).pdf" style="text-decoration:none;">Trust-Based Local and Social Recommendation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(26).pdf" style="text-decoration:none;">A Survey of Friendbook Recommendation Services</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(27).pdf" style="text-decoration:none;">An Evolutionary Algorithm Approach to Link Prediction in Dynamic Social Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(25).pdf" style="text-decoration:none;">Towards an Unsupervised Entrainment Distance in Conversational Speech using Deep Neural Networks</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(26).pdf" style="text-decoration:none;">Deep Affect Prediction in-the-wild: Aff-Wild Database and Challenge, Deep Architectures, and Beyond</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(27).pdf" style="text-decoration:none;">Modeling Interpersonal Influence of Verbal Behavior in Couples Therapy Dyadic Interactions</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(28).pdf" style="text-decoration:none;">Group Recommendations: Survey and Perspectives</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(28).pdf" style="text-decoration:none;">Modeling Multi-turn Conversation with Deep Utterance Aggregation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(29).pdf" style="text-decoration:none;">Meta-path based Multi-Network Collective Link Prediction </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(29).pdf" style="text-decoration:none;">Normalization Before Shaking Toward Learning Symmetrically Distributed Representation Without Margin in Speech Emotion Recognition </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(30).pdf" style="text-decoration:none;">State-of-the-Art in Group Recommendation and New Approaches for Automatic Identification of Groups </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(30).pdf" style="text-decoration:none;">Emotion Recognition in Speech using
+Cross-Modal Transfer in the Wild </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(31).pdf" style="text-decoration:none;">A Survey of Link Recommendation for Social Networks: Methods, Theoretical Foundations, and Future Research Directions</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(32).pdf" style="text-decoration:none;">UDP PING: a dedicated tool for improving measurements of the Internet topology</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(31).pdf" style="text-decoration:none;">ARBEE: Towards Automated Recognition of Bodily Expression of Emotion In the Wild</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(32).pdf" style="text-decoration:none;">Deep learning for language understanding of mental health concepts derived from Cognitive Behavioural Therapy</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(33).pdf" style="text-decoration:none;">Temporal properties of legal decision networks: a case study from the International Criminal Court</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(33).pdf" style="text-decoration:none;">Adversarial Training in Affective Computing and Sentiment Analysis: Recent Advances and Perspectives</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(34).pdf" style="text-decoration:none;">Quantifying the diversity in users activity: an example study on online music platforms</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(34).pdf" style="text-decoration:none;">MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(35).pdf" style="text-decoration:none;">The structure and function of complex networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(35).pdf" style="text-decoration:none;">Fully Supervised Speaker Diarization</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(36).pdf" style="text-decoration:none;">RankMerging: A supervised learning-to-rank framework to predict links in large social networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(36).pdf" style="text-decoration:none;">Multi-label Multi-task Deep Learning
+for Behavioral Coding</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(37).pdf" style="text-decoration:none;">Computing maximal cliques in link streams</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(38).pdf" style="text-decoration:none;">Stream Graphs and Link Streams
-for the Modeling of Interactions over Time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(39).pdf" style="text-decoration:none;">OLCPM: An Online Framework for Detecting Overlapping Communities in Dynamic Social Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(40).pdf" style="text-decoration:none;">An Information-theoretic Framework
-for the Lossy Compression of Link Streams</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(41).pdf" style="text-decoration:none;">How to detect causality effects on large dynamical communication networks: a case study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(42).pdf" style="text-decoration:none;">A Faster Algorithm for Betweenness Centrality </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(37).pdf" style="text-decoration:none;">DialogueRNN: An Attentive RNN for Emotion Detection in Conversations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(38).pdf" style="text-decoration:none;">SEWA DB: A Rich Database for Audio-Visual Emotion and Sentiment Research in the Wild</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(39).pdf" style="text-decoration:none;">Deep Learning for Human Affect Recognition: Insights and New Developments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(40).pdf" style="text-decoration:none;">Machine learning for the recognition of emotion in the speech of couples in psychotherapy using the Stanford Suppes Brain Lab Psychotherapy Dataset</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(41).pdf" style="text-decoration:none;">Attention-Augmented End-to-End Multi-Task Learning for Emotion Prediction from Speech</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(42).pdf" style="text-decoration:none;">ANA at SemEval-2019 Task 3: Contextual Emotion detection in Conversations through hierarchical LSTMs and BERT</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(43).pdf" style="text-decoration:none;">A Survey on Recommendations in Location-based Social Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(44).pdf" style="text-decoration:none;">Network Decomposition into Fixed Points of Degree Peeling</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(45).pdf" style="text-decoration:none;">A random model that relies on maximal bicliques to preserve the overlaps in bipartite networks</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(43).pdf" style="text-decoration:none;">The Impact of Extraneous Variables on the Performance of Recurrent Neural Network Models in Clinical Tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(44).pdf" style="text-decoration:none;">Multimodal Representation Learning using Deep Multiset Canonical Correlation Analysis</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(45).pdf" style="text-decoration:none;">Inferring Dynamic Representations of Facial Actions from a Still Image</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(46).pdf" style="text-decoration:none;">Enumerating maximal cliques
-in link streams with durations</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(46).pdf" style="text-decoration:none;">NELEC at SemEval-2019 Task 3: Think Twice Before Going Deep</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(47).pdf" style="text-decoration:none;">Approximating the Temporal Neighbourhood Function of Large Temporal Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(48).pdf" style="text-decoration:none;">Complex Networks and their Contribution to Real Network Design- A Survey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(47).pdf" style="text-decoration:none;">Modeling Interpersonal Linguistic Coordination in Conversations using Word Mover's Distance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(48).pdf" style="text-decoration:none;">The Verbal and Non Verbal Signals of Depression - Combining Acoustics, Text and Visuals for Estimating Depression Level</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(49).pdf" style="text-decoration:none;">Internal links and pairs as a new tool for the analysis of bipartite complex networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(49).pdf" style="text-decoration:none;">Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(50).pdf" style="text-decoration:none;">ANF: A Fast and Scalable Tool for Data Mining in Massive Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(51).pdf" style="text-decoration:none;">Approximating Betweenness Centrality</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(52).pdf" style="text-decoration:none;">HyperANF: Approximating the Neighbourhood Function of Very Large Graphs on a Budget</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(50).pdf" style="text-decoration:none;">Multi-task Learning for Multi-modal
+Emotion Recognition and Sentiment Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(51).pdf" style="text-decoration:none;">Towards Multimodal Sarcasm Detection
+(An Obviously Perfect Paper)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(52).pdf" style="text-decoration:none;">Multi-modal Active Learning From Human Data: A Deep Reinforcement Learning Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(53).pdf" style="text-decoration:none;">A Radar for the Internet</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(53).pdf" style="text-decoration:none;">AVEC 2019 Workshop and Challenge: State-of-Mind, Detecting Depression with AI, and Cross-Cultural Affect Recognition</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(54).pdf" style="text-decoration:none;">Deciding on the type of the degree distribution of a graph from traceroute-like measurements</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(54).pdf" style="text-decoration:none;">Artificial Intelligence and the Future of Psychiatry: Insights from a Global Physician Survey</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(55).pdf" style="text-decoration:none;">A Real-World Spreading Experiment
-in the Blogosphere</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(55).pdf" style="text-decoration:none;">Predicting Behavior in Cancer-Afflicted Patient and Spouse Interactions using Speech and Language</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(56).pdf" style="text-decoration:none;">Estimating properties in dynamic systems: the case of churn in P2P networks</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(56).pdf" style="text-decoration:none;">Recent Trends in Deep Learning Based Personality Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(57).pdf" style="text-decoration:none;">Fast Computation of Empirically Tight Bounds for the Diameter of Massive Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(57).pdf" style="text-decoration:none;">Variational Fusion for Multimodal Sentiment Analysis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(58).pdf" style="text-decoration:none;">Role of the Website Structure in the Diversity of Browsing Behaviors</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(59).pdf" style="text-decoration:none;">File Diffusion in a Dynamic Peer-to-peer Network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(58).pdf" style="text-decoration:none;">Emotion Recognition in Low-Resource Settings: An Evaluation of Automatic Feature Selection Methods</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(59).pdf" style="text-decoration:none;">DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(60).pdf" style="text-decoration:none;">Diffusion Cascades: Spreading Phenomena in Blog Network Communities</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(60).pdf" style="text-decoration:none;">Multi-Grained Spatio-temporal Modeling for Lip-reading</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(61).pdf" style="text-decoration:none;">Multidimensional Outlier Detection in Interaction Data: Application to Political Communication on Twitter</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(61).pdf" style="text-decoration:none;">
+The Ambiguous World of Emotion Representation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(62).pdf" style="text-decoration:none;">Efficient and simple generation of random simple connected graphs with prescribed degree sequence</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(62).pdf" style="text-decoration:none;">Multimodal Deep Learning for Mental Disorders Prediction from Audio Speech Samples</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(63).pdf" style="text-decoration:none;">Information Theory of Complex Networks: on evolution and architectural constraints</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(63).pdf" style="text-decoration:none;">Multi-level Attention network using text, audio and video for Depression Prediction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(64).pdf" style="text-decoration:none;">Detection, understanding, and prevention of traceroute measurement artifacts</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(64).pdf" style="text-decoration:none;">Towards Automatic Detection of Misinformation in Online Medical Videos</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(65).pdf" style="text-decoration:none;">Impact of Random Failures and Attacks on Poisson and Power-Law Random Networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(65).pdf" style="text-decoration:none;">Multimodal Embeddings from Language Models</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(66).pdf" style="text-decoration:none;">Evolving networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(66).pdf" style="text-decoration:none;">MFCC-based Recurrent Neural Network for Automatic Clinical Depression Recognition and Assessment from Speech</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(67).pdf" style="text-decoration:none;">A Radar for the Internet</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(67).pdf" style="text-decoration:none;">When to Intervene: Detecting Abnormal Mood using Everyday Smartphone Conversations</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(68).pdf" style="text-decoration:none;">Mobile IPv6 Deployments:
-Graph-based Analysis and practical Guidelines</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(68).pdf" style="text-decoration:none;">Facial Expression Recognition Using Disentangled Adversarial Learning</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(69).pdf" style="text-decoration:none;">Detecting Events in the Dynamics
-of Ego-centered Measurements of the Internet Topology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(69).pdf" style="text-decoration:none;">Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(70).pdf" style="text-decoration:none;">Impact of Sources and Destinations
-on the Observed Properties of the Internet Topology</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(70).pdf" style="text-decoration:none;">Exploiting multi-CNN features in CNN-RNN based Dimensional Emotion Recognition on the OMG in-the-wild Dataset</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(71).pdf" style="text-decoration:none;">Analysis of the temporal and structural features of threads in a mailing-list</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(71).pdf" style="text-decoration:none;">Objective Human Affective Vocal Expression Detection and Automatic Classification with Stochastic Models and Learning Systems</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(72).pdf" style="text-decoration:none;">A Matter of Time - Intrinsic or Extrinsic - for Diffusion in Evolving Complex Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(72).pdf" style="text-decoration:none;">Deception in Political Debates Using Acoustic and Textual Features</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(73).pdf" style="text-decoration:none;">The Power of Consensus:
-Random Graphs Have No Communities</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(74).pdf" style="text-decoration:none;">On the importance of considering social capitalism when measuring influence on Twitter</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(75).pdf" style="text-decoration:none;">Better Approximation Algorithms for the Graph Diameter</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(76).pdf" style="text-decoration:none;">Better Approximation of Betweenness Centrality</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(73).pdf" style="text-decoration:none;">Linking emotions to behaviors through
+deep transfer learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(74).pdf" style="text-decoration:none;">Conversational Transfer Learning for Emotion Recognition</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(75).pdf" style="text-decoration:none;">Aff-Wild Database and AffWildNet</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(76).pdf" style="text-decoration:none;">Facial Expression Recognition Using Human to Animated-Character Expression Translation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(77).pdf" style="text-decoration:none;">Betweenness centrality correlation in social networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(77).pdf" style="text-decoration:none;">Human-Like Decision Making: Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(78).pdf" style="text-decoration:none;">Bipartite Graphs as Models of Complex Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(79).pdf" style="text-decoration:none;">Centrality Estimation in Large Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(78).pdf" style="text-decoration:none;">Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(79).pdf" style="text-decoration:none;">Looking At The Body: Automatic Analysis of Body Gestures and Self-Adaptors in Psychological Distress</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(80).pdf" style="text-decoration:none;">Ego-betweenness centrality in link streams</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(80).pdf" style="text-decoration:none;">Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(81).pdf" style="text-decoration:none;">Multi-ego-centered communities</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(82).pdf" style="text-decoration:none;">Local network effects and complex network structure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(81).pdf" style="text-decoration:none;">Jointly Fine-Tuning “BERT-like” Self Supervised Models to Improve Multimodal Speech Emotion Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(82).pdf" style="text-decoration:none;">Emotional expression in psychiatric conditions: New technology for clinicians</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(83).pdf" style="text-decoration:none;">Strongly Connected Components in Stream Graphs: Computation and Experimentations</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(84).pdf" style="text-decoration:none;">Degree-based Outlier Detection within IP Traffic Modelled as a Link Stream</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(83).pdf" style="text-decoration:none;">Generating synthetic aging trajectories with a weighted network model using cross-sectional data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(84).pdf" style="text-decoration:none;">A Hierarchical Attention Network-Based Approach for Depression Detection from Transcribed Clinical Interviews</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(85).pdf" style="text-decoration:none;">Computing communities in large networks using random walks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(86).pdf" style="text-decoration:none;">Community detection in graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(85).pdf" style="text-decoration:none;">Speech Emotion Recognition in Dyadic Dialogues with Attentive Interaction Modeling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(86).pdf" style="text-decoration:none;">Lexical And Acoustic Deep Learning Model For Personality Recognition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(87).pdf" style="text-decoration:none;">Towards a bipartite graph modeling of the internet topology</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(88).pdf" style="text-decoration:none;">Relevance of Massively
-Distributed Explorations of the Internet Topology: Qualitative Results</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(89).pdf" style="text-decoration:none;">Discovering Patterns of Interest in IP Traffic Using Cliques in Bipartite Link Streams</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(87).pdf" style="text-decoration:none;">Ordinal Triplet Loss: Investigating Sleepiness Detection from Speech</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(88).pdf" style="text-decoration:none;">Using Prosodic and Lexical Information for Learning Utterance-level Behaviors in Psychotherapy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(89).pdf" style="text-decoration:none;">Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(90).pdf" style="text-decoration:none;"> Unfolding ego-centered community structures with "a similarity approach"</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(90).pdf" style="text-decoration:none;"> Into the Wild: Transitioning from Recognizing Mood in Clinical Interactions to Personal Conversations for Individuals with Bipolar Disorder</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(91).pdf" style="text-decoration:none;">Description and simulation of dynamic mobility networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Psychiatry-ML-Papers/blob/master/mel(92).pdf" style="text-decoration:none;">Time Evolution of the Importance of Nodes in dynamic Networks</a></li>
